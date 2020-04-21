@@ -107,7 +107,11 @@ return [
     |
     */
 
+<<<<<<< HEAD
     'key' => 'KVLxPBqoNHBzj3fZVUacZsYPpedeTO9E',
+=======
+    'key' => '0bZFFozAgkLl06HcNUO4elXvm8vqoGWx',
+>>>>>>> 89533ca57d9be61459427e5a05691c5ceb135f39
 
     'cipher' => 'AES-256-CBC',
 
